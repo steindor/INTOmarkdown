@@ -2,9 +2,17 @@
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
+1. Steindór Oddur Ellertsson
+
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+
+1. Ég sótti sýndarvél(VMware Workstation)
+2. Ég sótti Ubuntu 12.04 image skrá og installaði stýrikerfinu á sýndarvélina
+3. Ég keyrði sýndarvélina(Sjá meðfylgjandi mynd)
+
+
 
 ## 2. Uppsetning á vim && git
 
